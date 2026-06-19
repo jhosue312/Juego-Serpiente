@@ -1,6 +1,6 @@
 # Juego de la Serpiente
 
-Descripción
+
 Este proyecto implementa el clásico juego **Snake** en Python utilizando la librería `pygame`.  
 Incluye documentación con diagramas de **caso de uso**, **arquitectura** y **flujo**, que explican el diseño y la lógica del programa.
 
