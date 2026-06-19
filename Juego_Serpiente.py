@@ -1,18 +1,6 @@
-# Librerías:
-#   - pygame: manejo de gráficos y eventos
-#   - random: generación de posiciones aleatorias
-#   - sys: salida controlada del programa
-# ================================
-
-# ================================
 # Juego de la Serpiente 🐍
-# Autor: Jhosue
-# Librerías utilizadas:
-#   - pygame: manejo de gráficos y eventos
-#   - random: generación de posiciones aleatorias
-#   - sys: salida controlada del programa
-# ================================
 
+# Librerías
 import pygame   # Librería para gráficos, sonido y control de eventos
 import random   # Librería estándar para generar números aleatorios
 import sys      # Librería estándar para cerrar el programa de forma controlada
