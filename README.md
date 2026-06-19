@@ -1,4 +1,4 @@
-# Juego de la Serpiente 🐍
+# Juego de la Serpiente 
 Proyecto Juego de la Serpiente — incluye diagramas de diseño y documentación inicial.
 
 ## 📊 Diagramas del proyecto
