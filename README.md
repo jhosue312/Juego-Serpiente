@@ -1,14 +1,26 @@
-# Juego de la Serpiente 
-Proyecto Juego de la Serpiente — incluye diagramas de diseño y documentación inicial.
+# Juego de la Serpiente
 
-## 📊 Diagramas del proyecto
+##Descripción
+Este proyecto implementa el clásico juego **Snake** en Python utilizando la librería `pygame`.  
+Incluye documentación con diagramas de **caso de uso**, **arquitectura** y **flujo**, que explican el diseño y la lógica del programa.
 
-### Diagrama de flujo
-![Diagrama de flujo](Diagrama_Flujo(Snake_Play).png)
+---
 
-### Caso de uso
-![Caso de uso](Diagrama_caso_de_uso(Snake_Play).png)
+##Diagramas del proyecto
 
-### Arquitectura
-![Arquitectura](Diagrama_de_arquitectura(Snake_Play).png)
+### Diagrama de Caso de Uso
+![Diagrama de Caso de Uso](Diagrama_caso_de_uso(Snake_Play).png)
 
+### Diagrama de Arquitectura
+![Diagrama de Arquitectura](Diagrama_de_arquitectura(Snake_Play).png)
+
+### Diagrama de Flujo
+![Diagrama de Flujo](Diagrama_Flujo(Snake_Play).png)
+
+---
+
+## Requisitos
+- Python  
+- Librería `pygame`  
+  ```bash
+  pip install pygame
