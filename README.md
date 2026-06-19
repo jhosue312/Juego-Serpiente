@@ -24,3 +24,17 @@ Incluye documentación con diagramas de **caso de uso**, **arquitectura** y **fl
 - Librería `pygame`  
   ```bash
   pip install pygame
+
+---
+
+Durante la partida:
+
+Usa las flechas del teclado para mover la serpiente.
+Come la comida para aumentar tamaño y puntaje.
+Si chocas contra el borde o tu propio cuerpo → Game Over.
+
+En la pantalla final:
+
+Presiona R para reiniciar.
+
+Presiona Q para salir.
