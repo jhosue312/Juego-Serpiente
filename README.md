@@ -7,9 +7,6 @@
 El impacto de las nuevas tecnologías en la sociedad: desarrollo y proyección de soluciones informáticas
 
 
-## Problema
-Las nuevas tecnologías transforman la forma en que las personas interactúan y trabajan. Este proyecto responde a la necesidad de aplicar conceptos informáticos en un sistema práctico.
-
 ## Funcionalidades
 - Control de la serpiente con teclas direccionales  
 - Crecimiento al comer la manzana  
