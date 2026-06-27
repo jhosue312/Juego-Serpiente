@@ -3,6 +3,10 @@
 ## Integrantes
 - Jhosue Albán (UIDE)
 
+## Fecha
+Junio 2026
+---
+
 ## Nombre del proyecto
 El impacto de las nuevas tecnologías en la sociedad: desarrollo y proyección de soluciones informáticas
 
@@ -22,9 +26,6 @@ El impacto de las nuevas tecnologías en la sociedad: desarrollo y proyección d
 ## Impacto
 El proyecto evidencia cómo las tecnologías permiten crear soluciones interactivas y funcionales, aplicables en educación y entretenimiento.
 
-## Fecha
-Junio 2026
----
 
 ##Diagramas del proyecto
 
