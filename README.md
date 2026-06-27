@@ -1,9 +1,34 @@
-# Juego de la Serpiente
+# Juego de la Serpiente con pygame-ce
 
+## Integrantes
+- Jhosue Albán (UIDE)
 
-Este proyecto implementa el clásico juego **Snake** en Python utilizando la librería `pygame`.  
-Incluye documentación con diagramas de **caso de uso**, **arquitectura** y **flujo**, que explican el diseño y la lógica del programa.
+## Nombre del proyecto
+El impacto de las nuevas tecnologías en la sociedad: desarrollo y proyección de soluciones informáticas
 
+## Objetivo
+Analizar el impacto de las nuevas tecnologías y aplicar conocimientos de programación, diseño y arquitectura de software mediante el desarrollo de un sistema funcional.
+
+## Problema
+Las nuevas tecnologías transforman la forma en que las personas interactúan y trabajan. Este proyecto responde a la necesidad de aplicar conceptos informáticos en un sistema práctico.
+
+## Funcionalidades
+- Control de la serpiente con teclas direccionales  
+- Crecimiento al comer la manzana  
+- Detección de colisiones con paredes y cuerpo  
+- Pantalla de inicio y Game Over  
+- Puntuación y récord  
+
+## Tecnologías
+- Python  
+- pygame-ce  
+- GitHub para control de versiones  
+
+## Impacto
+El proyecto evidencia cómo las tecnologías permiten crear soluciones interactivas y funcionales, aplicables en educación y entretenimiento.
+
+## Fecha
+Junio 2026
 ---
 
 ##Diagramas del proyecto
