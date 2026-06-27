@@ -51,14 +51,15 @@ pip install pygame-ce
 
 ---
 
-Durante la partida:
+Instrucciones de uso
+Durante la partida
+Usa las flechas del teclado para mover la serpiente
 
-Usa las flechas del teclado para mover la serpiente.
-Come la comida para aumentar tamaño y puntaje.
-Si chocas contra el borde o tu propio cuerpo → Game Over.
+Come la comida para aumentar tamaño y puntaje
 
-En la pantalla final:
+Si chocas contra el borde o tu propio cuerpo → Game Over
 
-Presiona R para reiniciar.
+En la pantalla final
+Presiona R para reiniciar
 
-Presiona Q para salir.
+Presiona Q para salir
