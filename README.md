@@ -4,7 +4,7 @@
 - Jhosue Albán (UIDE)
 
 ## Fecha
-Junio 2026
+28 de Junio del 2026
 
 
 ## Nombre del proyecto
