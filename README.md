@@ -40,11 +40,14 @@ El proyecto evidencia cómo las tecnologías permiten crear soluciones interacti
 
 ---
 
-## Requisitos
-- Python  
-- Librería `pygame`  
-  ```bash
-  pip install pygame
+## Requisitos técnicos
+- Python 3.14 o superior  
+- Librería pygame-ce  
+
+### Instalación
+```bash
+pip install pygame-ce
+
 
 ---
 
