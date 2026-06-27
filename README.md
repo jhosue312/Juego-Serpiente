@@ -5,7 +5,7 @@
 
 ## Fecha
 Junio 2026
----
+
 
 ## Nombre del proyecto
 El impacto de las nuevas tecnologías en la sociedad: desarrollo y proyección de soluciones informáticas
