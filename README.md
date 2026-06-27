@@ -6,8 +6,6 @@
 ## Nombre del proyecto
 El impacto de las nuevas tecnologías en la sociedad: desarrollo y proyección de soluciones informáticas
 
-## Objetivo
-Analizar el impacto de las nuevas tecnologías y aplicar conocimientos de programación, diseño y arquitectura de software mediante el desarrollo de un sistema funcional.
 
 ## Problema
 Las nuevas tecnologías transforman la forma en que las personas interactúan y trabajan. Este proyecto responde a la necesidad de aplicar conceptos informáticos en un sistema práctico.
